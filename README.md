@@ -9,6 +9,7 @@
   <a href="https://github.com/titular33">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=titular33&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titular33&layout=compact&langs_count=7&theme=dracula"/>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educamaisbrasil.com.br%2Fcursos-e-faculdades%2Fanalise-e-desenvolvimento-de-sistemas%2Fnoticias%2Fcurso-de-introducao-a-computacao-e-programacao-tem-245-vagas&psig=AOvVaw25pm2KeAqzbnjSNZDqC0r6&ust=1647622098774000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj64uHMzfYCFQAAAAAdAAAAABAV">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Titu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
