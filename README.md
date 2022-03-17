@@ -1,14 +1,13 @@
-### Hi there 👋
+### Olá meu nome é Pedro Amorim, sou estudante de desenvolvimento web da Driven 👋
 
 - 🔭 i'm currently working on web developer
-- 🌱 I’m currently learning : Typescript
 - 😄 Pronouns: ele/dele
 - ⚡ Awesome fact: i´m a studant from Driven Educacional/Class T5. I'm also graduate in electrical engineering (UFJF)
 -->
 <div align="center">
   <a href="https://github.com/titular33">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=titular33&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img align="center" alt="Titu-pic" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titular33&layout=compact&langs_count=7&theme=dracula" style="border-radius:50px;" >
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titular33&layout=compact&langs_count=7&theme=dracula" >
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Titu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
