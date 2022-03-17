@@ -8,8 +8,6 @@
 <div align="center">
   <a href="https://github.com/titular33">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=titular33&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titular33&layout=compact&langs_count=7&theme=dracula"/>
-<img align="right" alt="Titu-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Titu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +17,7 @@
   <img align="center" alt="Titu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Titu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Titu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Titu-pic" height="150" style="border-radius:50px;" 
+  <img align="right" alt="Titu-pic" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titular33&layout=compact&langs_count=7&theme=dracula" style="border-radius:50px;" 
 </div>
 <div>  
   <a href = "mailto:amorim.pedro@engenharia.ufjf.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
