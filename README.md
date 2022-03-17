@@ -2,7 +2,6 @@
 
 - 🔭 i'm currently working on web developer
 - 🌱 I’m currently learning : Typescript
-- 📫 How to reach me: amorim.pedro@engenharia.ufjf.br
 - 😄 Pronouns: ele/dele
 - ⚡ Awesome fact: i´m a studant from Driven Educacional/Class T5. I'm also graduate in electrical engineering (UFJF)
 -->
