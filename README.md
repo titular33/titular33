@@ -1,6 +1,6 @@
 ### Olá meu nome é Pedro Amorim, sou estudante de desenvolvimento web da Driven 👋
 
-- 🔭 i'm currently working on web developer
+- 🔭 i'm currently working on web developer in Voitto.
 - 😄 Pronouns: ele/dele
 - ⚡ Awesome fact: i´m a studant from Driven Educacional/Class T5. I'm also graduate in electrical engineering (UFJF)
 -->
