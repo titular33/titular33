@@ -1,8 +1,8 @@
-### Olá meu nome é Pedro Amorim, sou estudante de desenvolvimento web da Driven 👋
+### Olá meu nome é Pedro Amorim, sou um desenvolvedor web  👋
 
-- 🔭 i'm currently working on web developer in Voitto.
+- 🔭 i'm currently working on web developer in Simpla Invest.
 - 😄 Pronouns: ele/dele
-- ⚡ Awesome fact: i´m a studant from Driven Educacional/Class T5. I'm also graduate in electrical engineering (UFJF)
+- ⚡ Awesome fact: i´m a studant from Driven Educacional/Class T5. I'm also graduate in electrical engineering (UFJF) and TI ( Estacio de Sá)
 -->
 <div align="center">
   <a href="https://github.com/titular33">
