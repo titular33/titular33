@@ -1,6 +1,6 @@
 ### Olá meu nome é Pedro Amorim, sou um desenvolvedor web  👋
 
-- 🔭 i'm currently working on web developer in Simpla Invest.
+- 🔭 i'm currently working on web developer in Simpla Invest and iḿ also a Software Engineer at Levty.
 - 😄 Pronouns: ele/dele
 - ⚡ Awesome fact: i´m a studant from Driven Educacional/Class T5. I'm also graduate in electrical engineering (UFJF) and TI ( Estacio de Sá)
 -->
